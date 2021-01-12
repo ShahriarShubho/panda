@@ -1,0 +1,13 @@
+.slide-color{
+    background-color:#FEEAE9;
+}
+.second-section-img-size img{
+    height: 100px;
+}
+.border-remover{
+    border: none;
+    background-color: white;
+}
+.button-color{
+    background-color: #ff4a92;
+}
